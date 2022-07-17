@@ -75,3 +75,5 @@
 ||clue.oceanengine.com^$important
 ||info.3g.qq.com^$important
 ||cdn.cnbj1.fds.api.mi-img.com^$important
+||log-api.pangolin-sdk-toutiao-b.com^$script,third-party,domain=log-api.pangolin-sdk-toutiao-b.com
+||log-api.pangolin-sdk-toutiao-b.com^$script,third-party,domain
