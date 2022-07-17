@@ -16,7 +16,6 @@
 ||images.pinduoduo.com^$important
 ||ug.snssdk.com^$important
 ||mon.snssdk.com^$important
-||sf3-fe-tos.pglstatp-toutiao.com^$important
 ||*.umeng.com^$important
 ||mssdk-bu.bytedance.com^$important
 #############################
@@ -59,7 +58,6 @@
 ||ali-ad.a.yximgs.com^$important
 ||tx.a.kspkg.com^$important
 ||imp.xdplt.com^$important
-||sf3-ttcdn-tos.pstatp.com^$important
 ||sf6-be-pack.pglstatp-toutiao.com^$important
 ||clto.cc^$important
 ||g.cn.miaozhen.com^$important
@@ -75,7 +73,3 @@
 ||clue.oceanengine.com^$important
 ||info.3g.qq.com^$important
 ||cdn.cnbj1.fds.api.mi-img.com^$important
-||log-api.pangolin-sdk-toutiao-b.com^$script,third-party,domain=log-api.pangolin-sdk-toutiao-b.com
-||log-api.pangolin-sdk-toutiao-b.com^$script,third-party,domain
-||log-api.pangolin-sdk-toutiao-b.com^$script,third-party,domain=log-api.pangolin-sdk-toutiao.com
-||log-api.pangolin-sdk-toutiao-b.com^$script
