@@ -77,3 +77,5 @@
 ||cdn.cnbj1.fds.api.mi-img.com^$important
 ||log-api.pangolin-sdk-toutiao-b.com^$script,third-party,domain=log-api.pangolin-sdk-toutiao-b.com
 ||log-api.pangolin-sdk-toutiao-b.com^$script,third-party,domain
+||log-api.pangolin-sdk-toutiao-b.com^$script,third-party,domain=log-api.pangolin-sdk-toutiao.com
+||log-api.pangolin-sdk-toutiao-b.com^$script
