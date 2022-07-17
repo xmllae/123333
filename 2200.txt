@@ -72,4 +72,3 @@
 ||tracking.miui.com^$important
 ||clue.oceanengine.com^$important
 ||info.3g.qq.com^$important
-||cdn.cnbj1.fds.api.mi-img.com^$important
