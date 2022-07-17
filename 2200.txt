@@ -59,7 +59,6 @@
 ||ali-ad.a.yximgs.com^$important
 ||tx.a.kspkg.com^$important
 ||imp.xdplt.com^$important
-||pglstatp-toutiao.com^$important
 ||sf3-ttcdn-tos.pstatp.com^$important
 ||sf6-be-pack.pglstatp-toutiao.com^$important
 ||clto.cc^$important
