@@ -84,3 +84,7 @@
 @@||wanxiang.e.kuaishou.com^
 @@||kssyt.e.kuaishou.com^
 @@||jsmov2.a.kwimgs.com^
+@@||vas-hl-x.snssdk.com^
+@@||ether-pack.pangolin-sdk-toutiao.com^
+@@||api-access.pangolin-sdk-toutiao.com^
+@@||log-api.pangolin-sdk-toutiao-b.com^
