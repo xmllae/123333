@@ -73,3 +73,14 @@
 ||clue.oceanengine.com^$important
 ||info.3g.qq.com^$important
 ||cdn.cnbj1.fds.api.mi-img.com^$important
+@@||jsmov2.a.kwimgs.com^
+@@||novel.pangolin-sdk-toutiao.com^
+@@||tnc3-bjlgy.snssdk.com^
+@@||tobapplog.ctobsnssdk.com^
+@@||dm-hl.toutiao.com^
+@@||dm.toutiao.com^
+@@||open.e.kuaishou.com^
+@@||pangolin.snssdk.com^
+@@||wanxiang.e.kuaishou.com^
+@@||kssyt.e.kuaishou.com^
+@@||jsmov2.a.kwimgs.com^
