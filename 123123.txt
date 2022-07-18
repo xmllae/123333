@@ -87,4 +87,3 @@
 @@||vas-hl-x.snssdk.com^
 @@||ether-pack.pangolin-sdk-toutiao.com^
 @@||api-access.pangolin-sdk-toutiao.com^
-@@||log-api.pangolin-sdk-toutiao-b.com^
