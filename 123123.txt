@@ -1,6 +1,6 @@
 @@||so-pgl.toutiao.com^$important
-@@||extlog.snssdk.com^$important
-@@||open.snssdk.com.bytedns.net^$important
+#@@||extlog.snssdk.com^$important
+#@@||open.snssdk.com.bytedns.net^$important
 @@||sf3-be-pack.pglstatp-toutiao.com^$important
 @@||tzdefend.auto98.com^$important
 ||mcs.snssdk.com^$important
@@ -75,11 +75,9 @@
 @@||tnc3-bjlgy.snssdk.com^
 @@||dm-hl.toutiao.com^
 @@||dm.toutiao.com^
-@@||open.e.kuaishou.com^
 @@||pangolin.snssdk.com^
 @@||wanxiang.e.kuaishou.com^
 @@||kssyt.e.kuaishou.com^
-@@||jsmov2.a.kwimgs.com^
 @@||vas-hl-x.snssdk.com^
 @@||ether-pack.pangolin-sdk-toutiao.com^
 @@||api-access.pangolin-sdk-toutiao.com^
