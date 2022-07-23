@@ -1,0 +1,6 @@
+||127.0.0.1 toblog.ctobsnssdk.com^
+||127.0.0.1 mi.gdt.qq.com^
+||127.0.0.1 sdk.e.qq.com^
+||127.0.0.1 tobapplog.ctobsnssdk.com^
+##############################
+||127.0.0.1 engine.tuia.cn^
