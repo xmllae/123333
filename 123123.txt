@@ -1,8 +1,5 @@
 @@||so-pgl.toutiao.com^$important
 @@||extlog.snssdk.com^$important
-@@||*.gdt.qq.com^$important
-@@||toblog.ctobsnssdk.com^$important
-@@||sdk.e.qq.com^$important
 @@||open.snssdk.com.bytedns.net^$important
 @@||sf3-be-pack.pglstatp-toutiao.com^$important
 @@||tzdefend.auto98.com^$important
@@ -76,7 +73,6 @@
 @@||jsmov2.a.kwimgs.com^
 @@||novel.pangolin-sdk-toutiao.com^
 @@||tnc3-bjlgy.snssdk.com^
-@@||tobapplog.ctobsnssdk.com^
 @@||dm-hl.toutiao.com^
 @@||dm.toutiao.com^
 @@||open.e.kuaishou.com^
