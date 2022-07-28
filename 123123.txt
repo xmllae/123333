@@ -1,4 +1,4 @@
-@@||so-pgl.toutiao.com^$important
+#@@||so-pgl.toutiao.com^$important
 #@@||extlog.snssdk.com^$important
 #@@||open.snssdk.com.bytedns.net^$important
 @@||tzdefend.auto98.com^$important
