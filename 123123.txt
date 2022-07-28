@@ -1,7 +1,6 @@
 @@||so-pgl.toutiao.com^$important
 #@@||extlog.snssdk.com^$important
 #@@||open.snssdk.com.bytedns.net^$important
-@@||sf3-be-pack.pglstatp-toutiao.com^$important
 @@||tzdefend.auto98.com^$important
 ||mcs.snssdk.com^$important
 ||3gimg.qq.com^$important
