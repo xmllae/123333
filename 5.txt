@@ -41,7 +41,6 @@
 ||widgettool.ppdaicdn.com^$important
 ||file11info.ppdai.com^$important
 ||ld.ppdai.com^$important
-||r.ppdai.com^$important
 ||mktadsodr.ppdai.com^$important
 ||isub.snssdk.com^$important
 ||adtrack.beefungames.com^$important
@@ -65,6 +64,11 @@
 ||clue.oceanengine.com^$important
 ||info.3g.qq.com^$important
 ||cdn.cnbj1.fds.api.mi-img.com^$important
+||p3-be-pack-sign.pglstatp-toutiao.com^$important
+||p26-be-pack-sign.pglstatp-toutiao.com^$important
+||p9-be-pack-sign.pglstatp-toutiao.com^$important
+||p6-be-pack-sign.pglstatp-toutiao.com^$important
+||cfg.imtt.qq.com^$important
 #############允许列表################
 @@||so-pgl.toutiao.com^$important
 @@||extlog.snssdk.com^$important
