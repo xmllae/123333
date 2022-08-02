@@ -64,10 +64,7 @@
 ||clue.oceanengine.com^$important
 ||info.3g.qq.com^$important
 ||cdn.cnbj1.fds.api.mi-img.com^$important
-||p3-be-pack-sign.pglstatp-toutiao.com^$important
-||p26-be-pack-sign.pglstatp-toutiao.com^$important
-||p9-be-pack-sign.pglstatp-toutiao.com^$important
-||p6-be-pack-sign.pglstatp-toutiao.com^$important
+
 ||cfg.imtt.qq.com^$important
 #############允许列表################
 @@||api-access.pangolin-sdk-toutiao.com^
@@ -77,4 +74,8 @@
 @@||log-api.pangolin-sdk-toutiao-b.com^
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||open.e.kuaishou.com^
+@@||p3-be-pack-sign.pglstatp-toutiao.com^$important
+@@||p26-be-pack-sign.pglstatp-toutiao.com^$important
+@@||p9-be-pack-sign.pglstatp-toutiao.com^$important
+@@||p6-be-pack-sign.pglstatp-toutiao.com^$important
 @@||mi.gdt.qq.com^
