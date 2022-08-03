@@ -1,6 +1,0 @@
-||i.snssdk.com^$important
-||verify.snssdk.com^$important
-||cmshow.gtimg.cn^$important
-||slb-p2p.vcloud.ks-live.com^$important
-||mssdk-bu.snssdk.com^$important
-||qzs.gdtimg.com^$important
