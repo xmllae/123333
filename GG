@@ -103,7 +103,7 @@
 @@||api-access.pangolin-sdk-toutiao.com^
 @@||apd-pcdnwxlogin.teg.tencent-cloud.net^
 @@||ad-monitor.sh9130.com^
-@@||*.pstatp.com^$important
+@@||*.pstatp.com^
 @@||*.bytesmanager.com^$important
 @@||*.byteimg.com^$important
 @@||*.360.cn^$important
