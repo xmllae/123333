@@ -99,7 +99,6 @@
 @@||cmshow.gtimg.cn^
 @@||clue.oceanengine.com^^
 @@||cdn.cnbj1.fds.api.mi-img.com^
-@@||case-cdn.oceanplayable.com^
 @@||c.gdt.qq.com^
 @@||api-access.pangolin-sdk-toutiao.com^
 @@||apd-pcdnwxlogin.teg.tencent-cloud.net^
@@ -110,6 +109,9 @@
 @@||*.360.cn^$important
 #卡千禧登录
 @@||android.rqd.qq.com^
+#卡游戏广告下载界面
+@@||case-cdn.oceanplayable.com^
+@@||playable.oceanengine.com^
 #2022.08.18新增
 @@||lf3-analytics.bytescm.com^$important
 @@||lf3-short.bytetos.com^$important
