@@ -112,6 +112,8 @@
 #卡游戏广告下载界面
 @@||case-cdn.oceanplayable.com^
 @@||playable.oceanengine.com^
+#卡广告填表页
+@@||lf1-cdn2-tos.bytegoofy.com^
 #2022.08.18新增
 #@@||lf3-short.bytetos.com^$important
 #@@||lf3-analytics.bytescm.com^$important
@@ -140,7 +142,7 @@
 ||lf3-short.bytegoofy.com^
 ||lf6-cdn-tos.bytegoofy.com^
 ||lf1-cdn-tos.bytegoofy.com^
-||lf1-cdn2-tos.bytegoofy.com^
+#||lf1-cdn2-tos.bytegoofy.com^
 ||lf3-cdn-tos.bytegoofy.com^
 ||lf6-cdn2-tos.bytegoofy.com^
 #bytetcc.com系列^
