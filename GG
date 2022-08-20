@@ -27,7 +27,7 @@
 ||mssdk-bu.bytedance.com^
 ||mon.snssdk.com^
 ||mktadsodr.ppdai.com^
-||mercury-sdk.snssdk.com^
+#||mercury-sdk.snssdk.com^
 ||mcs.snssdk.com^
 ||maumkt.ppdaicdn.com^
 ||maumkt.oss-cn-shanghai.aliyuncs.com^
@@ -114,6 +114,8 @@
 @@||playable.oceanengine.com^
 #卡广告填表页
 @@||lf1-cdn2-tos.bytegoofy.com^
+#卡视频软件的视频加载
+@@||mercury-sdk.snssdk.com^
 #2022.08.18新增
 #@@||lf3-short.bytetos.com^$important
 #@@||lf3-analytics.bytescm.com^$important
